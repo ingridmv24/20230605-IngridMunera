@@ -1,0 +1,5 @@
+Procesador (CPU): El procesador es el cerebro de la computadora y se encarga de ejecutar las instrucciones y realizar los cálculos. Es responsable de realizar las operaciones lógicas y aritméticas, así como de controlar el funcionamiento general de la computadora.
+
+Memoria RAM: La memoria RAM (Random Access Memory) es donde se almacenan temporalmente los datos y programas que se están utilizando activamente. La RAM proporciona acceso rápido a la información y permite que el procesador pueda acceder y leer o escribir datos rápidamente.
+
+Disco duro: El disco duro es el dispositivo de almacenamiento principal de una computadora. Es donde se almacenan permanentemente los archivos y programas, incluso cuando la computadora está apagada. El disco duro utiliza discos magnéticos para almacenar los datos de forma no volátil.
