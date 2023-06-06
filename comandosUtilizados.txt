@@ -1,0 +1,36 @@
+  423  git init
+  424  git remote add origin https://github.com/ingridmv24/20230605-IngridMunera.git
+  425  git remote -v
+  426  touch comandos.txt main.js index.html
+  427  git add .
+  428  git commit -m "commit 01 de IngridMunera"
+  429  git log --oneline
+  430  git branch feature01
+  431  git checkout feature01
+  432  mkdir Terminal Hardware
+  433  cd Hardware/
+  434  touch resumen.txt
+  435  cd ..
+  436  cd Terminal/
+  437  touch resumen.txt
+  438  cd ..
+  439  git add .
+  440  git status
+  441  git commit -m "commit 02 de IngridMunera"
+  442  git push origin feature01
+  443  git branch feature02
+  444  git checkout feature02
+  445  cd Terminal/
+  446  nano resumen.txt
+  447  cat resumen.txt
+  448  cd ..
+  449  cd Hardware/
+  450  nano resumen.txt
+  451  cd ..
+  452  git add .
+  453  git status
+  454  git commit -m "commit 03 de IngridMunera"
+  455  git checkout main
+  456  mv comandos.txt comandosUtilizados.txt
+  457  history
+  458  history > comandosUtilizados.txt 
